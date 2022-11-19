@@ -6,3 +6,7 @@
 
 ## example
 例文
+
+```
+console.log("hello world");
+```
